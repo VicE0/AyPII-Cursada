@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/belu/Escritorio/agenda/utiles.cpp
+iostream
+-
+utiles.h
+/home/belu/Escritorio/agenda/utiles.h
+fstream
+-
+
+/home/belu/Escritorio/agenda/utiles.h
+string
+-
+
